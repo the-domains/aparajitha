@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Aparajitha]]></title>
         <description><![CDATA[Aparajitha]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aparajitha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 11:12:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 11:24:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aparajitha/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Skills]]></title>
+            <description><![CDATA[<p>HTML5, CSS3, SQL, Wordpress </p>]]></description>
+            <link>https://thegrid.ai/aparajitha/skills/index.html</link>
+            <guid isPermaLink="false">43d9f582-259c-43d1-bcd0-512641b02dc5</guid>
+            <pubDate>Thu, 12 May 2016 11:23:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/241a510b-845b-4f48-914f-92b4677be896.jpg">]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <link>https://thegrid.ai/aparajitha/about-me/index.html</link>
             <guid isPermaLink="false">a8e77204-6824-4055-b25e-4e30f157f5af</guid>
             <pubDate>Thu, 12 May 2016 11:12:10 GMT</pubDate>
         </item>
