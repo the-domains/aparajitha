@@ -4,8 +4,17 @@
         <description><![CDATA[Aparajitha]]></description>
         <link>https://thegrid.ai/aparajitha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 11:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 11:29:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aparajitha/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My papers]]></title>
+            <description><![CDATA[<p>MANET
+and Spread Spectrum based Multi-Rover System - accepted at the 2nd International Multi-Conference on Complexity, Informatics and Cybernetics
+(IMCIC 2011) held at Orlando, Florida, USA on March 27th - 30th, 2011</p>]]></description>
+            <link>https://thegrid.ai/aparajitha/my-papers/index.html</link>
+            <guid isPermaLink="false">0fa82a2c-e7e0-4bbe-9931-ec8ca2e2ed68</guid>
+            <pubDate>Thu, 12 May 2016 11:29:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Skills]]></title>
             <description><![CDATA[<p>HTML5, CSS3, SQL, Wordpress </p>]]></description>
