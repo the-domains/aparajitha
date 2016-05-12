@@ -1,7 +1,7 @@
 name: Aparajitha
 favicon: null
 layout_spectrum: 0.729859790764749
-typography_spectrum: 0.49639515159651637
+typography_spectrum: 0.77869
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#311d3f'
+    - '#88304e'
+    - '#e23e57'
+    - '#ffffff'
+    - '#979b9d'
   brandStrength: 0.9983208503108472
-  lightness: 0.5986925184261054
-  saturation: 0.44960143347270787
+  lightness: 0.1875
+  saturation: 0.125
   rhythmicContrast: 0.4566677794791758
 purpose: []
