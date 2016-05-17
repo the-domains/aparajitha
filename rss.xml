@@ -4,8 +4,15 @@
         <description><![CDATA[Aparajitha]]></description>
         <link>https://thegrid.ai/aparajitha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 11:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 13:56:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aparajitha/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30d0f57c289e960f5487ea5f5ceb9cc9050b3e5b.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/aparajitha/about-me/index.html</link>
+            <guid isPermaLink="false">a8e77204-6824-4055-b25e-4e30f157f5af</guid>
+            <pubDate>Tue, 17 May 2016 13:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My papers]]></title>
             <description><![CDATA[<p>MANET
@@ -21,13 +28,6 @@ and Spread Spectrum based Multi-Rover System - accepted at the 2nd Internatio
             <link>https://thegrid.ai/aparajitha/skills/index.html</link>
             <guid isPermaLink="false">43d9f582-259c-43d1-bcd0-512641b02dc5</guid>
             <pubDate>Thu, 12 May 2016 11:23:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/241a510b-845b-4f48-914f-92b4677be896.jpg">]]></description>
-            <link>https://thegrid.ai/aparajitha/about-me/index.html</link>
-            <guid isPermaLink="false">a8e77204-6824-4055-b25e-4e30f157f5af</guid>
-            <pubDate>Thu, 12 May 2016 11:12:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
