@@ -1,19 +1,4 @@
-name: Aparajitha
-favicon: null
-layout_spectrum: 0.81025
 typography_spectrum: 0.77869
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#311d3f'
@@ -25,4 +10,20 @@ color:
   lightness: 0.1875
   saturation: 0.125
   rhythmicContrast: 0.4566677794791758
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.81025
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Aparajitha
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Write. Code. Art
 purpose: []
