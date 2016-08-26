@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Aparajitha]]></title>
-        <description><![CDATA[Aparajitha]]></description>
+        <title><![CDATA[Aparajitha Murali]]></title>
+        <description><![CDATA[Aparajitha Murali]]></description>
         <link>https://thegrid.ai/aparajitha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 11:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 10:29:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aparajitha/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My papers]]></title>
+            <description><![CDATA[<p>MANET and Spread Spectrum based Multi-Rover System - accepted at the 2nd International Multi-Conference on Complexity, Informatics and Cybernetics (IMCIC 2011) held at Orlando, Florida, USA on March 27th - 30th, 2011</p>]]></description>
+            <link>https://thegrid.ai/aparajitha/my-papers/index.html</link>
+            <guid isPermaLink="false">0fa82a2c-e7e0-4bbe-9931-ec8ca2e2ed68</guid>
+            <pubDate>Fri, 26 Aug 2016 10:29:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30d0f57c289e960f5487ea5f5ceb9cc9050b3e5b.jpg" alt="" title="">]]></description>
@@ -19,15 +26,6 @@
             <link>https://thegrid.ai/aparajitha/skills/index.html</link>
             <guid isPermaLink="false">43d9f582-259c-43d1-bcd0-512641b02dc5</guid>
             <pubDate>Wed, 18 May 2016 13:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My papers]]></title>
-            <description><![CDATA[<p>MANET
-and Spread Spectrum based Multi-Rover System - accepted at the 2nd International Multi-Conference on Complexity, Informatics and Cybernetics
-(IMCIC 2011) held at Orlando, Florida, USA on March 27th - 30th, 2011</p>]]></description>
-            <link>https://thegrid.ai/aparajitha/my-papers/index.html</link>
-            <guid isPermaLink="false">0fa82a2c-e7e0-4bbe-9931-ec8ca2e2ed68</guid>
-            <pubDate>Thu, 12 May 2016 11:29:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
