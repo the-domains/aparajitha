@@ -1,30 +1,30 @@
-typography_spectrum: 0.77869
-color:
-  brandColors:
-    - '#311d3f'
-    - '#88304e'
-    - '#e23e57'
-    - '#ffffff'
-    - '#979b9d'
-  brandStrength: 0.9983208503108472
-  lightness: 0.1875
-  saturation: 0.125
-  rhythmicContrast: 0.4566677794791758
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.81025
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 name: Aparajitha
+favicon: null
+layout_spectrum: 0.67655
+typography_spectrum: 0.3776
+title: Aparajitha Murali
+description: Write. Code. Art
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
-title: Aparajitha Murali
-description: Write. Code. Art
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fe9601'
+    - '#cc0063'
+    - '#00b796'
+    - '#00d2f1'
+    - '#86269b'
+  brandStrength: 0.9983208503108472
+  lightness: 0.1875
+  saturation: 0.125
+  rhythmicContrast: 0.4566677794791758
 purpose: []
