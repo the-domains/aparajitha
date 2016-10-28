@@ -1,30 +1,52 @@
-name: Aparajitha
-favicon: null
-layout_spectrum: 0.67655
-typography_spectrum: 0.3776
-title: Aparajitha Murali
-description: Write. Code. Art
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.9493173416594208
+color:
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.192937163993956
+  lightness: 0.597421567243072
+  saturation: 0.9560956946730909
+  rhythmicContrast: 0.6532576709400199
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#fe9601'
-    - '#cc0063'
-    - '#00b796'
-    - '#00d2f1'
-    - '#86269b'
-  brandStrength: 0.9983208503108472
-  lightness: 0.1875
-  saturation: 0.125
-  rhythmicContrast: 0.4566677794791758
-purpose: []
+layout_spectrum: 0.9098992063165965
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Aparajitha M
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c59d160-dc31-498f-97ff-895287c09adf.png
+name: Aparajitha Murali
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Skills
+    id: 43d9f582-259c-43d1-bcd0-512641b02dc5
+    type: content
+  - name: My papers
+    id: 0fa82a2c-e7e0-4bbe-9931-ec8ca2e2ed68
+    type: content
+  - name: Artwork
+    id: bb520b1e-2d6e-4f83-8be5-9961d694177e
+    type: content
+  - name: Projects
+    id: 6f4bf825-4f0f-48a7-b104-4e5d12e24858
+    type: content
+favicon: null
+title: Aparajitha Murali
+content: []
+description: Write. Code. Art
+purpose:
+  - type: contact
+    url: 'mailto:aparajitha.m7@gmail.com'
+    label: Contact me
