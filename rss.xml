@@ -2,23 +2,38 @@
     <channel>
         <title><![CDATA[Aparajitha Murali]]></title>
         <description><![CDATA[Aparajitha Murali]]></description>
-        <link>https://thegrid.ai/aparajitha/</link>
+        <link>http://aparajitham.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 13:51:34 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/aparajitha/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Nov 2016 15:34:44 GMT</lastBuildDate>
+        <atom:link href="http://aparajitham.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 10 Nov 2016 15:34:14 GMT</pubDate>
         <item>
-            <title><![CDATA[My papers]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3f411f6d25d663c78707b551d371f8d9/croprotate.jpg?cropheight=820&cropwidth=1280&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2d8e0b77-029f-43ba-8b14-a8f3376dfae0.jpg&x=0&y=10" alt="" title="">]]></description>
-            <link>https://thegrid.ai/aparajitha/my-papers/index.html</link>
-            <guid isPermaLink="false">0fa82a2c-e7e0-4bbe-9931-ec8ca2e2ed68</guid>
-            <pubDate>Fri, 26 Aug 2016 10:34:05 GMT</pubDate>
+            <title><![CDATA[Who am I]]></title>
+            <description><![CDATA[<article><h1>Who am I</h1><p>Someone who grew up with a ridiculous hunger for understanding how things work and was fed a diet of technology and plenty of science. I believe in using my love for technology and healing to help people lead fulfilling lives. I am also a masters swimmer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b221a2b3f36728fdd306043028e698a811b87104.jpg"></article>]]></description>
+            <link>http://aparajitham.com/who-am-i/index.html</link>
+            <guid isPermaLink="false">a8e77204-6824-4055-b25e-4e30f157f5af</guid>
+            <pubDate>Thu, 10 Nov 2016 15:34:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Skills]]></title>
-            <description><![CDATA[<p>HTML5, CSS3, SQL, Wordpress </p>]]></description>
-            <link>https://thegrid.ai/aparajitha/skills/index.html</link>
+            <title><![CDATA[Here to help you with]]></title>
+            <description><![CDATA[<article><h1>Here to help you with</h1><p>HTML5, CSS3, SQL, Wordpress</p></article>]]></description>
+            <link>http://aparajitham.com/what-i-can-help-you-with/index.html</link>
             <guid isPermaLink="false">43d9f582-259c-43d1-bcd0-512641b02dc5</guid>
-            <pubDate>Wed, 18 May 2016 13:44:21 GMT</pubDate>
+            <pubDate>Fri, 28 Oct 2016 15:26:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artwork]]></title>
+            <description><![CDATA[<article><h1>Artwork</h1><p>A few selected artworks</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f3d27ba-6410-401c-b776-70fc4dff3628.jpg"></article>]]></description>
+            <link>http://aparajitham.com/artwork/index.html</link>
+            <guid isPermaLink="false">bb520b1e-2d6e-4f83-8be5-9961d694177e</guid>
+            <pubDate>Fri, 28 Oct 2016 15:24:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My publications]]></title>
+            <description><![CDATA[<article><h1>My publications</h1><p>MANET and Spread Spectrum based Multi-Rover System - accepted at the 2nd International Multi-Conference on Complexity, Informatics and Cybernetics (IMCIC 2011) held at Orlando, Florida, USA on March 27th - 30th, 2011</p></article>]]></description>
+            <link>http://aparajitham.com/my-papers/index.html</link>
+            <guid isPermaLink="false">0fa82a2c-e7e0-4bbe-9931-ec8ca2e2ed68</guid>
+            <pubDate>Mon, 10 Oct 2016 16:21:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
